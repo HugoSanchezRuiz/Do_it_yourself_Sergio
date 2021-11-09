@@ -4,7 +4,7 @@ Mediante una hoja de estilos externos se ha de aplicar formato a la página web 
 
   · Regla 1. Utilizar el selector universal * para cambiar el tipo de fuente del documento
 
-  · Regla 2. El elemento body tendrá margen 0 y relleno de 20% únicamente a la derecha y izquierda
+  · Regla 2. El elemento body tendrá margen de 20% y relleno de 20% a la derecha y izquierda
 
   · Regla 3. Los elementos h1 estarán subrayados (text-decoration: underline;), de color darkcyan y alineados al centro
 
