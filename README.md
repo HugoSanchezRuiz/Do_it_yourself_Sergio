@@ -12,7 +12,7 @@ Mediante una hoja de estilos externos se ha de aplicar formato a la página web 
 
   · Regla 5. Los elementos con clase selectors tendrán un relleno de 5%, un border: solid darkcyan 1px; y esquinas redondeadas border-radius con valor de 5px
 
-  · Regla 6. Los elementos con identificador (id) universal tendrán color lightgoldenrodyellow
+  · Regla 6. Los elementos con identificador (id) universal tendrán color green
 
   · Regla 7. Los elementos h2 con clase selector y los elementos h2 con identificador (id) universal tendrán color de fondo darkcyan, relleno de 1% y esquinas redondeadas con valor de 5px
 
